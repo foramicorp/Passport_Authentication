@@ -6,4 +6,4 @@ const dbConnect = async (req , res ) => {
     console.log("connected to the database");
 }
 
-module.exports = dbConnect;
+module.exports = dbConnect; 
